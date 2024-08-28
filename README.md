@@ -1,6 +1,8 @@
 # restaurant-css-framework
 ## Making of a restaurant website using Bootstrap by Ronnie James Torres
 
+View website : https://ronniejamestorres.github.io/restaurant-css-framework/index.html
+
 ![This is the logo with colors](img/logo/beeaterslogocolor-01.png)
 ![This is the logo in black and white](img/logo/beeaterslogocolor-01.png)
 
